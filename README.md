@@ -6,6 +6,7 @@ Hardware
   + Buzzer
   + Led
   + GPS
+  + LM2596
  
 Use Thingspeak, Node-red & MQTT for tranfering data
 
